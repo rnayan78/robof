@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/robof/static/css/main.dd175770.chunk.css",
+    "main.js": "/robof/static/js/main.eae07eab.chunk.js",
+    "main.js.map": "/robof/static/js/main.eae07eab.chunk.js.map",
+    "runtime-main.js": "/robof/static/js/runtime-main.368fd0fa.js",
+    "runtime-main.js.map": "/robof/static/js/runtime-main.368fd0fa.js.map",
+    "static/css/2.fe359a49.chunk.css": "/robof/static/css/2.fe359a49.chunk.css",
+    "static/js/2.518d8cac.chunk.js": "/robof/static/js/2.518d8cac.chunk.js",
+    "static/js/2.518d8cac.chunk.js.map": "/robof/static/js/2.518d8cac.chunk.js.map",
+    "static/js/3.a1796986.chunk.js": "/robof/static/js/3.a1796986.chunk.js",
+    "static/js/3.a1796986.chunk.js.map": "/robof/static/js/3.a1796986.chunk.js.map",
+    "index.html": "/robof/index.html",
+    "static/css/2.fe359a49.chunk.css.map": "/robof/static/css/2.fe359a49.chunk.css.map",
+    "static/css/main.dd175770.chunk.css.map": "/robof/static/css/main.dd175770.chunk.css.map",
+    "static/js/2.518d8cac.chunk.js.LICENSE.txt": "/robof/static/js/2.518d8cac.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.368fd0fa.js",
+    "static/css/2.fe359a49.chunk.css",
+    "static/js/2.518d8cac.chunk.js",
+    "static/css/main.dd175770.chunk.css",
+    "static/js/main.eae07eab.chunk.js"
+  ]
+}
